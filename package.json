@@ -1,0 +1,14 @@
+{
+  "name": "satik-nft",
+  "version": "1.0.0",
+  "description": "Write and deploy NFT on ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajwal Bati",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  }
+}
