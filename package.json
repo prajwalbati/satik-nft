@@ -4,18 +4,23 @@
   "description": "Write and deploy NFT on ethereum blockchain",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "npx hardhat compile --show-stack-traces",
+    "deploy:goerli": "npx hardhat run --show-stack-traces --network goerli scripts/deploy.js",
+    "test": "npx hardhat test --show-stack-traces --network hardhat"
   },
   "author": "Prajwal Bati",
   "license": "ISC",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "@nomiclabs/hardhat-ethers": "^2.2.2",
     "ethers": "^5.7.2",
     "hardhat": "^2.12.7"
   },
   "dependencies": {
     "@alch/alchemy-web3": "^1.4.7",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
     "@openzeppelin/contracts": "^4.8.1",
+    "chai": "^4.3.7",
     "dotenv": "^16.0.3"
   }
 }
