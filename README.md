@@ -2,13 +2,14 @@
 
 This is a hardhat project for deploying nft smartcontract.
 
+
 ## Related Articles on Medium:
 
-1. <a href="https://prajwalbati.medium.com/write-and-deploy-nft-smart-contracts-af8ca48e6917" target="_blank">Write and deploy NFT Smart Contracts</a>
+1. [Write and deploy NFT Smart Contracts](https://prajwalbati.medium.com/write-and-deploy-nft-smart-contracts-af8ca48e6917){target="_blank"}
 
-2. <a href="https://prajwalbati.medium.com/create-nft-collection-and-metadata-6dce86cb0710" target="_blank">Create NFT collection and metadata</a>
+2. [Create NFT collection and metadata](https://prajwalbati.medium.com/create-nft-collection-and-metadata-6dce86cb0710){target="_blank"}
 
-3. <a href="https://prajwalbati.medium.com/mint-nfts-with-web3-js-b39a3ada2d9b" target="_blank">Mint NFTs with web3.js</a>
+3. [Mint NFTs with web3.js](https://prajwalbati.medium.com/mint-nfts-with-web3-js-b39a3ada2d9b){target="_blank"}
 
 
 ## How to get started?
